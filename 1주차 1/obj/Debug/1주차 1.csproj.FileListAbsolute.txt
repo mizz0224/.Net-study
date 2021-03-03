@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\새 폴더\1주차 1\bin\Debug\1주차 1.exe.config
+C:\Users\Student\Desktop\새 폴더\1주차 1\bin\Debug\1주차 1.exe
+C:\Users\Student\Desktop\새 폴더\1주차 1\bin\Debug\1주차 1.pdb
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\1주차 1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\_1주차_1.Form1.resources
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\_1주차_1.Properties.Resources.resources
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\1주차 1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\1주차 1.exe
+C:\Users\Student\Desktop\새 폴더\1주차 1\obj\Debug\1주차 1.pdb
