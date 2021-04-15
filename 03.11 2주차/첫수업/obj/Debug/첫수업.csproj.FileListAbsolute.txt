@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\03.11 2주차\첫수업\bin\Debug\첫수업.exe.config
+C:\Users\student\Desktop\03.11 2주차\첫수업\bin\Debug\첫수업.exe
+C:\Users\student\Desktop\03.11 2주차\첫수업\bin\Debug\첫수업.pdb
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.Form1.resources
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.Properties.Resources.resources
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.exe
+C:\Users\student\Desktop\03.11 2주차\첫수업\obj\Debug\첫수업.pdb

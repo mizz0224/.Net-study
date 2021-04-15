@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\네모네모만들기\bin\Debug\네모네모만들기.exe.config
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\네모네모만들기.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\네모네모만들기.Properties.Resources.resources
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\네모네모만들기.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\네모네모만들기\bin\Debug\네모네모만들기.exe
+C:\Users\student\Desktop\네모네모만들기\bin\Debug\네모네모만들기.pdb
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\네모네모만들기.exe
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\네모네모만들기.pdb
+C:\Users\student\Desktop\네모네모만들기\obj\Debug\첫수업.Form1.resources
