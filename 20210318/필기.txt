@@ -1,0 +1,4 @@
+어떠한 키입력에도 반응 : KEYDOWN
+그 키입력중에도 문자열에만 반응 : KEYPRESS
+
+번개(이벤트 옆 속성에 double buffer 을 True로 바꾸며 깜박거림이 없어짐

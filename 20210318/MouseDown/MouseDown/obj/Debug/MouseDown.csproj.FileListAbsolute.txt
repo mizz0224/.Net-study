@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\bin\Debug\MouseDown.exe
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\bin\Debug\MouseDown.pdb
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.Form1.resources
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.Properties.Resources.resources
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.exe
+C:\Users\student\Desktop\17장=이벤트\MouseDown\MouseDown\obj\Debug\MouseDown.pdb
