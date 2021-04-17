@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\StarUnit\StarUnit\bin\Debug\StarUnit.exe
+C:\Users\student\Desktop\StarUnit\StarUnit\bin\Debug\StarUnit.pdb
+C:\Users\student\Desktop\StarUnit\StarUnit\obj\Debug\StarUnit.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\StarUnit\StarUnit\obj\Debug\StarUnit.exe
+C:\Users\student\Desktop\StarUnit\StarUnit\obj\Debug\StarUnit.pdb

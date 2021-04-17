@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: inheritance - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\alone\LOCALS~1\Temp\RSP48C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/inheritance.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Skk Education\Study-Lang\VC++\김용성-1학기\Ch1\가상함수\inheritance\inheritance.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\alone\LOCALS~1\Temp\RSP48C.tmp" 
+Creating temporary file "C:\DOCUME~1\alone\LOCALS~1\Temp\RSP48D.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/inheritance.pdb" /debug /machine:I386 /out:"Debug/inheritance.exe" /pdbtype:sept 
+".\Debug\inheritance.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\alone\LOCALS~1\Temp\RSP48D.tmp"
+<h3>Output Window</h3>
+Compiling...
+inheritance.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+inheritance.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
