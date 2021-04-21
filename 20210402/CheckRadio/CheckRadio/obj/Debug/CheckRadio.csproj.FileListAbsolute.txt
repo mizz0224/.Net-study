@@ -1,0 +1,9 @@
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\bin\Debug\CheckRadio.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\bin\Debug\CheckRadio.pdb
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.csprojAssemblyReference.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.Form1.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.Properties.Resources.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.csproj.GenerateResource.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.csproj.CoreCompileInputs.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\CheckRadio\CheckRadio\obj\Debug\CheckRadio.pdb

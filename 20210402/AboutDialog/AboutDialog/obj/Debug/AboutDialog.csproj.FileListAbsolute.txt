@@ -1,0 +1,10 @@
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\bin\Debug\AboutDialog.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\bin\Debug\AboutDialog.pdb
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.csprojAssemblyReference.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.Form1.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.Form2.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.Properties.Resources.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.csproj.GenerateResource.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.csproj.CoreCompileInputs.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\AboutDialog\AboutDialog\obj\Debug\AboutDialog.pdb

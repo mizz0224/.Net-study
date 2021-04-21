@@ -1,0 +1,9 @@
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\bin\Debug\ContextMenuTest.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\bin\Debug\ContextMenuTest.pdb
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.csprojAssemblyReference.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.Form1.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.Properties.Resources.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.csproj.GenerateResource.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.csproj.CoreCompileInputs.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ContextMenuTest\ContextMenuTest\obj\Debug\ContextMenuTest.pdb

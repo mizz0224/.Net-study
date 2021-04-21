@@ -1,0 +1,9 @@
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\bin\Debug\ListBoxItem.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\bin\Debug\ListBoxItem.pdb
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.csprojAssemblyReference.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.Form1.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.Properties.Resources.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.csproj.GenerateResource.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.csproj.CoreCompileInputs.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\ListBoxItem\ListBoxItem\obj\Debug\ListBoxItem.pdb

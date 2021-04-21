@@ -1,0 +1,9 @@
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\bin\Debug\MenuTest.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\bin\Debug\MenuTest.pdb
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.csprojAssemblyReference.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.Form1.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.Properties.Resources.resources
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.csproj.GenerateResource.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.csproj.CoreCompileInputs.cache
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.exe
+C:\Users\wosud\Desktop\OneDrive\학교\4학년 1학기\.Net\20210402\MenuTest\MenuTest\obj\Debug\MenuTest.pdb
