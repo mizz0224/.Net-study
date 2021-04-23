@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe.config
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.pdb
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form1.resources
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form2.resources
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.exe
+C:\Users\student\Desktop\20210408\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.pdb
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe.config
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.exe
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.pdb
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form1.resources
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form2.resources
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe
+C:\Users\student\Desktop\20210408\선그리기 스크롤바\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.pdb
