@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\bin\Debug\Serialize.exe
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\bin\Debug\Serialize.pdb
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.Form1.resources
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.Properties.Resources.resources
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\Users\student\Desktop\26장=파일 입출력\Serialize\Serialize\obj\Debug\Serialize.pdb
+C:\Users\student\Desktop\20210415\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\Users\student\Desktop\20210415\Serialize\Serialize\obj\Debug\Serialize.pdb

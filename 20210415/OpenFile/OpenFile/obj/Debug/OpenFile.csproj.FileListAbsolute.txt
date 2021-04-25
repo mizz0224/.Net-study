@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\student\Desktop\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\student\Desktop\20210415\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache

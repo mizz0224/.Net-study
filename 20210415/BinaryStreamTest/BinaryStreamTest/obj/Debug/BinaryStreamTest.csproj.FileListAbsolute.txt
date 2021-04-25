@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.pdb
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Form1.resources
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Properties.Resources.resources
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+C:\Users\student\Desktop\26장=파일 입출력\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb
